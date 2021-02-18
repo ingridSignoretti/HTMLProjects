@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Ingrid Signoretti</title>
+</head>
+
+<body>
+    <h1> Ingrid Signoretti</h1>
+    <table>
+        <tr>
+            <td><a href="http://linkedin.com/ingrid.manfrim"> <img src="contact.png" alt="Ingrid"
+                        style="width: 130px; height: 100px;"></a></td>
+        </tr>
+        <tr>
+            <td>QA Engineer - Manual and Automation</td>
+        </tr>
+    </table>
+
+    <h2>Summary</h2>
+    <p>Hands-on test analyst who enjoys test and possess an insatiable
+        thirst to understand new and emerging technologies. Currently
+        working as graduate researcher in software engineering area.
+        Previously experience in a multinational company with manual,
+        service, and exploratory teste and high interest in test
+        automation.</p>
+    <section>
+        <h2>Experience</h2>
+        <ul>
+            <li>QA Engineer at Gamesys <small>December 2020-Present</small></li>
+            <ol>
+                <li>End-to-end Testing</li>
+                <li>Mobile Testing</li>
+                <li>Automation Testing</li>
+            </ol>
+            <p><i>Tools:</i>JavaScript, WebDriver I/O, Mocka</p>
+            </ol>
+            <li>QA Engineer at HP <small>June 2020 - October 2020</small></li>
+            <ol>
+                <li>Automation Testing</li>
+                <li>Manual Testing <small> End-to-end, Smoke, Exploratory, Regression</small></li>
+                <li>API Testing</li>
+                <li>Performance Testing</li>
+            </ol>
+            <p><i>Tools:</i> Java, Selenium WebDriver, WebDriver I/O, Mocka, Jmeter</p>
+
+            <li>Researcher at DELL - partnership with PUCRS <small>March 2018 - May 2020</small></li>
+            <li>QA Analyst at Stefanini <small>September 2017 - February 2018</small></li>
+            <li>QA Engineer at PUCRS <small>March 2012 - August 2017</small></li>
+        </ul>
+    </section>
+    <footer>
+        <div><b>Contact Me</b></div>
+        <address> <a href="mailito:ingrid.manfrim@gmail.com?subject"> <img src="Gmail-logo.png" alt="Gmail Icon"
+                    style="width: 60px; height: 50px;"></a>
+            <a href="tel:"> <img src="phone-logo.png" style="width: 50px; height: 45px;"></a>
+        </address>
+
+    </footer>
+</body>
